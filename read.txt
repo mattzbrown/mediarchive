@@ -1,0 +1,5 @@
+Pref exploits and stupid head shit have been fixed. I advise going through and
+defining each variable, then unset register globals and set error_reporting
+to 2047.
+
+~tonglebeak

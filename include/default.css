@@ -1,0 +1,16 @@
+body {margin-top: 0em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em; font-family: "arial", sans-serif; background-color: #FFFFFF }
+a:link {color: #00004F; }
+a:visited {color: #0000AF; }
+a.MENU:link {text-decoration: underline; color: #FFFFFF; } 
+a.MENU:visited {text-decoration: underline; color: #FFFFFF; } 
+a.MENU:active {text-decoration: underline; color: #FF0000; } 
+a.MENU:hover {text-decoration: underline; color: #FFFF00; }
+td {font-family: "arial", sans-serif; font-size: 80%; color: #000000; }
+td.DARK {background: #000099; text-decoration: bold; font-size: 95%; color: #FFFFFF; font-weight: bold; }
+td.LITE {background: #000066; text-decoration: bold; font-size: 95%; color: #FFFFFF; font-weight: bold; }
+td.CELL1 {background: #CCCCCC; }
+td.CELL2 {background: #326FAD; }
+td.SYS {background: #FFFF00; }
+td.DARKSYS {background: #C0C000; }
+td.SHADE {background: #E0E0E0; }
+td.BAR {background: #000066; color: #FFFFFF; }
